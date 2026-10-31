@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353453922027",
+    "project_id": "atlasrandevupush",
+    "storage_bucket": "atlasrandevupush.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353453922027:android:fcf66ad3220781dbab50ae",
+        "android_client_info": {
+          "package_name": "tr.com.atlassoftware.atlas_randevu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8QgaivJsj5DCvpjxzRyW2cmN7JalU_n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
